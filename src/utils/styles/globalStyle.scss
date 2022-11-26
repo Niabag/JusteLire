@@ -1,0 +1,18 @@
+@import './colors.scss';
+
+* {
+    @font-face {
+        font-family: 'roboto';
+        src: url('../../assets/fonts/open-sans.light.ttf');
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+
+body{
+    margin: 0px;
+    background-color: $gris;
+    @media (max-width: 1080px) {
+      background-color: $gris;
+       }
+    }
