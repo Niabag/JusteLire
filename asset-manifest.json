@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JusteLire/static/css/main.04d0fb79.css",
+    "main.css": "/JusteLire/static/css/main.ac9065c6.css",
     "main.js": "/JusteLire/static/js/main.688f6ffe.js",
     "static/media/Gabain.jpg": "/JusteLire/static/media/Gabain.0c7464bdf2c5034a218e.jpg",
     "static/media/open-sans.light.ttf": "/JusteLire/static/media/open-sans.light.3d5923f94fc319b5652a.ttf",
     "static/media/Livre.jpg": "/JusteLire/static/media/Livre.d5dae345010433ad9ce8.jpg",
     "index.html": "/JusteLire/index.html",
-    "main.04d0fb79.css.map": "/JusteLire/static/css/main.04d0fb79.css.map",
+    "main.ac9065c6.css.map": "/JusteLire/static/css/main.ac9065c6.css.map",
     "main.688f6ffe.js.map": "/JusteLire/static/js/main.688f6ffe.js.map"
   },
   "entrypoints": [
-    "static/css/main.04d0fb79.css",
+    "static/css/main.ac9065c6.css",
     "static/js/main.688f6ffe.js"
   ]
 }
